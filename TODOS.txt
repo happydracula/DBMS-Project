@@ -1,0 +1,10 @@
+1.Make available books page for user to view all books available✅
+2.Provide filters to allow filtering of available books✅
+3.Allow user to select books to borrow✅
+4.Make borrowed books page for user showing whichever books are overdue✅
+5.Make available books page for admin✅
+6.Allow user to return books✅
+7.Improve frontend with Bootstrap✅
+8.Make borrowed books page for admin to view all borrowed books as well as the overdue ones
+
+9.Provide statistics page for admin to see statistics of different types of books.
